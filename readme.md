@@ -1,3 +1,3 @@
 #Git ssample
 
-eso es un ejemplo de uso de Git
+esto es un ejemplo de uso de Git
